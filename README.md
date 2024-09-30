@@ -7,4 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma)](https://skillicons.dev)
 ### Software:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)<br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=implObserver&layout=compact&theme=github_dark_dimmed)<br>
+![](https://komarev.com/ghpvc/?username=implObserver)
